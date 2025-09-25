@@ -1,12 +1,31 @@
-# React + Vite
+# 🤖 ChatBot_App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**ChatBot_App** is a React-based chatbot application that allows users to have interactive conversations with an AI-powered bot. It uses Hugging Face API for intelligent replies and provides a clean, responsive UI.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features
 
-## Expanding the ESLint configuration
+- Interactive chat interface with real-time messaging
+- AI-powered responses using Hugging Face API
+- Environment variable support for secure API key management
+- Responsive design for both desktop and mobile
+- Rule-based fallback replies for common questions
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 💻 Tech Stack
+
+- **Frontend:** React, Tailwind CSS, Framer Motion  
+- **API:** Hugging Face  
+- **Tools:** Axios, Vite  
+
+---
+
+## ⚙️ Installation
+
+1. **Clone the repository:**
+
+```bash
+git clone https://github.com/Saim81alam/ChatBot_App.git
+cd ChatBot_App
